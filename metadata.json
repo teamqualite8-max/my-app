@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Traceability Pro",
+  "description": "High-performance industrial quality control tracking with barcode scanning and local storage.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
